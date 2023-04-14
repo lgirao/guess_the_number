@@ -1,3 +1,1 @@
-# recipes
-
-# practicing git commands using the terminal
+# Guess The Number
